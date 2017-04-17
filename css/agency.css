@@ -205,18 +205,18 @@ fieldset[disabled] .btn-xl.active {
 
 
 header {
-	padding-top:350px;
+	/*padding-top:350px;
 	margin-top:-100px;
     text-align: center;
     color: #ffffff;
     background-attachment: scroll;
-    background-image: url(../img/Nat4.jpg);
+    background-image: none
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
-    -o-background-size: cover;
+    -o-background-size: cover;*/
 }
 
 header .intro-text {
