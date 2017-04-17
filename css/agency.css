@@ -278,6 +278,13 @@ section h3.section-subheading {
     font-weight: 300;
 	color:#fff;
 }
+section h3.section-subheading-black {
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	margin-top: 10px;	
+    font-size: 25px;
+    font-weight: 300;
+	color:#000;
+}
 
 section h4.info{
 	font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
